@@ -1,0 +1,22 @@
+{
+  "name": "second",
+  "version": "0.1.0",
+  "summary": "A short description of second.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cr400/second",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cr400": "msicr400@163.com"
+  },
+  "source": {
+    "git": "https://github.com/cr400/second.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "second/Classes/**/*"
+}
